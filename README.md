@@ -68,20 +68,12 @@ J’aime construire des interfaces propres, des APIs solides et des architecture
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-<p align="center">
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Javibz&show_icons=true&theme=transparent&hide_border=true&cache_seconds=21600&locale=fr"
-    alt="Statistiques GitHub de Javibz"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javibz&layout=compact&theme=transparent&hide_border=true&cache_seconds=21600&locale=fr"
-    alt="Langages les plus utilisés par Javibz"
-  />
-</p>
+Tu peux retrouver mes projets publics directement ici :
+
+- [Mes repositories GitHub](https://github.com/Javibz?tab=repositories)
+- [Mon profil GitHub](https://github.com/Javibz)
 
 ---
 
